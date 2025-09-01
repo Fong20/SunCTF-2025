@@ -33,7 +33,7 @@ Upon clicking in the first result, being the github profile. I have managed to c
 
 <img width="1919" height="932" alt="image" src="https://github.com/user-attachments/assets/b4600b02-b320-4835-a2fa-27f2c51eecb0" />
 
-With the newly obtained information, I conducted a simple validation test by searching for the challenge creator's linkedin profile using the name `Robbin` followed by the potential working location: `Gen Digital`. With that, I managed to find out the profile which 
+With the newly obtained information, I conducted a simple validation test by searching for the challenge creator's linkedin profile using the name `Robbin` followed by the potential working location: `Gen Digital`. With that, I managed to find out the profile which fulfills all the information.
 
 <img width="868" height="525" alt="image" src="https://github.com/user-attachments/assets/c41814f0-90fb-4c37-b204-45488d6b535c" />
 
