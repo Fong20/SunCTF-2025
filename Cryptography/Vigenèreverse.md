@@ -19,12 +19,12 @@ According to the challenge's description, we are required to encrypt the key bef
 <img width="514" height="478" alt="image" src="https://github.com/user-attachments/assets/5960ea67-6cb6-4e0b-b6e2-6d932dc50d62" />
 
 ### 3. Reversing the Key
-With the required information, we start off by reversing the given key with the help of Cyberchef's Reverse function, which will return us with an output of `emesrevertnod`
+With the required information, we start off by reversing the given plaintext key with the help of Cyberchef's Reverse function, which will return us with an output of `emesrevertnod`
 
 <img width="1936" height="930" alt="image" src="https://github.com/user-attachments/assets/116c5a2d-109b-4dcf-af08-cad715204627" />
 
 ### 4. Encrypting the Key
-Moving on, we can use the reversed key to encrypt the plaintext key using Vigenère cipher to return us the encrypted key with the help of Cyberchef's Vigenère Encode function. This will return us the encrypted key, `harliiqiilrah`
+Moving on, we can use the reversed key to encrypt the plaintext key with Vigenère cipher using Cyberchef's Vigenère Encode function to return us the encrypted key. This will return us the encrypted key, `harliiqiilrah`
 
 <img width="1936" height="930" alt="image" src="https://github.com/user-attachments/assets/6aa97d4e-62c0-4701-9bac-49d25d81e579" />
 
