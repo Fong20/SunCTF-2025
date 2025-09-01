@@ -8,19 +8,14 @@
 
 # Solution
 
-### 1. Examining the File Contents
-We are provided with an image file, `photo.jpg` to be analyzed. Based on the photo, it seems to be taken from a high rise building which has a clear view of the Prudential tower and KL tower.
-
-<img width="1440" height="762" alt="image" src="https://github.com/user-attachments/assets/d6c6c2e2-f183-4f82-ba8b-bc27a8d38062" />
-
-### 2. Examining the Challenge's Description
+### 1. Examining the Challenge's Description
 Firstly, the challenge's description is analyzed to search for potential information and hints. 
 
 According to the challenge's description, we are required to find the challenge creator's location plus code based on the photo given. We are also provided with additional information that the creator took the photo when he is bored at work, signifying that the photo is taken from his workplace.
 
 <img width="516" height="368" alt="image" src="https://github.com/user-attachments/assets/49911fcf-3f4f-4890-8994-a76a065a8f61" />
 
-### 3. Searching for the Location
+### 2. Searching for the Location
 With the required information, I started off by searching for the creator's workplace location by conducting a simple online search on the challenge creator's username, `warlocksmurf` and it returned a list of results related to CTFs. 
 
 <img width="1931" height="932" alt="image" src="https://github.com/user-attachments/assets/6c0a1561-ef1d-4cbd-bf5e-05cdabe8c12e" />
@@ -45,12 +40,24 @@ I then proceeded to search for the company's location address through a simple g
 
 <img width="1929" height="933" alt="image" src="https://github.com/user-attachments/assets/d3e5d4f9-344c-47fa-8336-b23ef2bf9469" />
 
-I then searched for MoneyLion Malaysia as MoneyLion is now under Gen Digital and it returned the required location address
+I then searched for MoneyLion Malaysia as MoneyLion is now under Gen Digital and it returned the required location address. Apparently, MoneyLion Malaysia is located in Menara Exchange 106 @ TRX
 
 <img width="1929" height="933" alt="image" src="https://github.com/user-attachments/assets/38ef2c13-8d4d-4ba2-a58c-226041ad1c05" />
 
-### 4. Identifying the location's plus code
-Once the location address is obtained, I then inserted the location address into Google Plus Code Website, which returned the plus code of `4PR9`. Thus, the obtained flag will be `sunctf{4PR9}`
+### 3. Verifying the Location with the Image provided
+Based on the photo, it seems to be taken from a high rise building which has a clear view of the Prudential tower, a yellow high rise building, and KL tower.
+
+<img width="1440" height="762" alt="image" src="https://github.com/user-attachments/assets/d6c6c2e2-f183-4f82-ba8b-bc27a8d38062" />
+
+By looking at the Google street view of the Prudential tower which also faces the same yellow high rise building and backtracking, I can now confirm that the high rise building which oversees the Prudential tower, a yellow high rise building, and KL tower is the Menara Exchange 106 @ TRX.
+
+<img width="1929" height="933" alt="image" src="https://github.com/user-attachments/assets/1616cd89-87e1-4805-bb14-9246dc3679e6" />
+
+<img width="1929" height="933" alt="image" src="https://github.com/user-attachments/assets/b61009be-4c33-40f9-b342-f318a21d56ee" />
+
+
+### 5. Obtaining the Flag
+Once the location address is obtained and verified, I then inserted the location address into Google Plus Code Website, which returned the plus code of `4PR9`. Thus, the obtained flag will be `sunctf{4PR9}`
 
 <img width="1929" height="933" alt="image" src="https://github.com/user-attachments/assets/1d0e93cd-4a28-4764-b088-62ab382207df" />
 
