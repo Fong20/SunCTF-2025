@@ -9,7 +9,7 @@
 # Solution
 
 ### 1. Examining the File Contents
-We are provided with an image file, `photo.jpg` to be analyzed.
+We are provided with an image file, `photo.jpg` to be analyzed. Based on the photo, it seems to be taken from a high rise building which has a clear view of the Prudential tower and KL tower.
 
 <img width="1440" height="762" alt="image" src="https://github.com/user-attachments/assets/d6c6c2e2-f183-4f82-ba8b-bc27a8d38062" />
 
