@@ -1,8 +1,10 @@
-# Vigenèreverse (Cryptography) - 69
+# Vigenèreverse 
 > I love reversing things and using the Vigenère cipher, but I despise plaintext keys. Can you help me encrypt the key before you decrypt the ciphertext flag?
 > 
 
-`Flag: sunctf25{f0rW4Rd_bUt_0ppO5iTe}`
+- `Challenge Type: Cryptography`
+- `Points: 69`
+- `Flag: sunctf25{f0rW4Rd_bUt_0ppO5iTe}`
 
 # Solution
 
