@@ -57,7 +57,7 @@ By looking at the Google street view of the Prudential tower which also faces th
 
 
 ### 5. Obtaining the Flag
-Once the location address is obtained and verified, I then inserted the location address into Google Plus Code Website, which returned the plus code of `4PR9`. Thus, the obtained flag will be `sunctf{4PR9}`
+Once the location address is obtained and verified, I then inserted the location address into Google Plus Code Website, which returned the plus code of `4PR9`. Thus, the obtained flag will be `sunctf25{4PR9}`
 
 <img width="1929" height="933" alt="image" src="https://github.com/user-attachments/assets/1d0e93cd-4a28-4764-b088-62ab382207df" />
 
